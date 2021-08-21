@@ -34,7 +34,6 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/devto.svg" alt="Dev.to" style="vertical-align:top; margin:4px"></img>
 </a>
 
-**:briefcase: Hire me :** [Malt](https://www.malt.fr/profile/davidbentopereira)
 
 </samp>
 <p align='center'>
