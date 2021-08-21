@@ -8,8 +8,6 @@
   <p>
   <img src="https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g" width="350" height="350" align='left'/>
   </p>
-  
-  ### About
 <samp>
   
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
