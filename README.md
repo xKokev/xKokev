@@ -6,11 +6,13 @@
 
 </div>
   <p>
-  <img src="https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g" width="100" height="100" align='left'/>
+  <img src="https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g" width="300" height="300" align='left'/>
   </p>
   
-  ### afifhas
-  asfasopfkaokfopakga
+  ### About
+  My name is Kevin Correa, I am from Venezuela and I love programming, My favorite technology stack includes React, CSS, HTML5 and JavaScript
+
+
 
 <samp>
   
