@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**xKokev/xkokev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Kevin Correa, I am from Venezuela and I love programming, My favorite technology stack includes React, CSS, HTML5 and JavaScript
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
