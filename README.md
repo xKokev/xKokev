@@ -2,7 +2,7 @@
 
 ## Hi, I'm Kevin :wave:
 
-![](https://media3.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif?cid=ecf05e47rvqyfq30d1wonx1hmiil3ohyu7ddxnb0w25x4spn&rid=giphy.gif&ct=s)
+![](https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g)
 
 ![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
 
