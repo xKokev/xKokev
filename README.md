@@ -2,9 +2,7 @@
 
 ## Hi, I'm Kevin :wave:
   </div>
-<div width="15" align='center' >
-
-## Hi, I'm Kevin :wave:
+<div width="15" align='left' >
 
 ![](https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=ecf05e47pv9lo5zjtl9q1b15dz0qoh7xs9od4kkkm6sau0xy&rid=giphy.gif&ct=g)
 
