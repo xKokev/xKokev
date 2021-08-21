@@ -2,6 +2,7 @@
 
 ## Hi, I'm Kevin :wave:
   </div>
+  <p>
 <div width="15" align='left' >
 
 ![](https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=ecf05e47pv9lo5zjtl9q1b15dz0qoh7xs9od4kkkm6sau0xy&rid=giphy.gif&ct=g)
@@ -9,7 +10,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
 
 </div>
-
+</p>
 ### Boy Scout Rule
 
 I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
