@@ -2,8 +2,6 @@
 
 ## Hi, I'm Kevin :wave:
 
-![](https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g)
-
 ![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
 
 </div>
