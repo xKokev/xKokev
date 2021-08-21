@@ -1,15 +1,12 @@
 <div width="15" align='center' >
+
 ## Hi, I'm Kevin :wave:
-![](https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=ecf05e47pv9lo5zjtl9q1b15dz0qoh7xs9od4kkkm6sau0xy&rid=giphy.gif&ct=g)
+
+![](https://media3.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif?cid=ecf05e47rvqyfq30d1wonx1hmiil3ohyu7ddxnb0w25x4spn&rid=giphy.gif&ct=s)
 
 ![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
 
 </div>
-
-### Boy Scout Rule
-
-I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
-
 <samp>
   
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
@@ -48,11 +45,6 @@ I love open source. I am not a heavy maintainer of any large libraries, but I re
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbentopereira&layout=compact&hide=html" alt="davidbentopereira" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidbentopereira&show_icons=true" alt="davidbentopereira" />
 
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
- 
-### Boy Scout Rule
-
-I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
-
