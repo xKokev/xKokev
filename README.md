@@ -10,10 +10,6 @@
   </p>
   
   ### About
-  My name is Kevin Correa, I am from Venezuela and I love programming, My favorite technology stack includes React, CSS, HTML5 and JavaScript
-
-
-
 <samp>
   
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
