@@ -2,7 +2,7 @@
 
 ## Hi, I'm Kevin :wave:
 
-![](https://www.reddit.com/r/gifs/comments/b46f2r/what_is_a_megabyte_and_can_i_eat_it/)
+![](https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=ecf05e47pv9lo5zjtl9q1b15dz0qoh7xs9od4kkkm6sau0xy&rid=giphy.gif&ct=g)
 
 ![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
 
