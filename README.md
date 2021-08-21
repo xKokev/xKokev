@@ -5,7 +5,6 @@
 ![](https://media4.giphy.com/media/SeAsglcHL3j169BPyP/giphy.gif?cid=ecf05e47isjm881s2atafifjyk9c2rwnwjlv9o2a30hhwzve&rid=giphy.gif&ct=s)
 
 ![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
-
 </div>
 <samp>
   
