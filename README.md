@@ -12,7 +12,6 @@ const developer = {
 
 <div align='center' >
 
-#### Hi, I'm Kevin :wave:
 
 ![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
 
