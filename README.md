@@ -10,10 +10,11 @@
   </p>
   
 ```js
-const developer = require('markdown-it')();
-const prism = require('markdown-it-prism');
-
-md.use(prism, options);
+const developer = {
+    firstName: 'Kevin',
+    lastName: 'Correa',
+    portfolio: 'https://xkokev.github.io/Kevin-Correa-portfolio/'
+}
 ```
 
 <samp>
