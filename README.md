@@ -1,12 +1,8 @@
-<div width="15" align='center' >
-
+<div width="100" align='center' >
 ## Hi, I'm Kevin :wave:
-
 ![](https://media3.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif?cid=ecf05e47rvqyfq30d1wonx1hmiil3ohyu7ddxnb0w25x4spn&rid=giphy.gif&ct=s)
-
-![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
-
 </div>
+![GitHub followers](https://img.shields.io/github/followers/xkokev?style=social)
 <samp>
   
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
