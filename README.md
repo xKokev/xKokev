@@ -8,6 +8,15 @@
   <p>
   <img src="https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g" width="340" height="340" align='left'/>
   </p>
+  
+  ## Usage
+```js
+const md = require('markdown-it')();
+const prism = require('markdown-it-prism');
+
+md.use(prism, options);
+```
+
 <samp>
   
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
