@@ -10,7 +10,7 @@
   </p>
   
 ```js
-const md = require('markdown-it')();
+const developer = require('markdown-it')();
 const prism = require('markdown-it-prism');
 
 md.use(prism, options);
