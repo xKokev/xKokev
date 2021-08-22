@@ -29,7 +29,6 @@ const developer = {
   
 </div>
 
-<br/>
 <p align='center'>
 <a href="https://twitter.com/xKokev"><img height="30" src="https://github.com/xKokev/xkokev/blob/main/twitter-100.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/xkokev/"><img height="31" src="https://github.com/xKokev/xkokev/blob/main/igg.png"></a>&nbsp;&nbsp;
