@@ -4,10 +4,23 @@
   
 ```js
 const developer = {
-    firstName: 'Kevin',
-    lastName: 'Correa',
-    portfolio: 'https://xkokev.github.io/Kevin-Correa-portfolio/'
-}
+  firstName: 'Kevin',
+  lastName: 'Correa',
+  programmingLanguages: {
+    preference: 'JavaScript',
+    regulars: ['React', 'CSS', 'HTML'],
+  },
+  portfolio: 'https://xkokev.github.io/Kevin-Correa-portfolio/',
+
+  contactMe: function () {
+    if (needHelp || wannaChat) {
+      tweetAt('@xkokev');
+    } else {
+      return false;
+    }
+  },
+};
+
 ```
 
 <div align='center' >
@@ -19,7 +32,7 @@ const developer = {
 
 <br/>
 <p align='center'>
-<a href="https://twitter.com/xKokev"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/xKokev"><img height="30" src="https://github.com/xKokev/xkokev/blob/main/twitter-100.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/xkokev/"><img height="30" src="https://github.com/xKokev/xkokev/blob/main/igram.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kevincorreasuarez/"><img height="30" src="https://github.com/xKokev/xkokev/blob/main/linkedin.png"></a>
 </p>
