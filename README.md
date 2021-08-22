@@ -1,5 +1,5 @@
   <p>
-  <img src="https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g" width="300" height="300" align='left'/>
+  <img src="https://media0.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=ecf05e47dtw8fuarjsajyqe8kufzk8zp4om2zizdsh4mpetc&rid=giphy.gif&ct=s" width="300" height="300" align='left'/>
   </p> 
   
 ```js
