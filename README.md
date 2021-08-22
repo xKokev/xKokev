@@ -1,7 +1,6 @@
   <p>
   <img src="https://media0.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif?cid=790b76110fdf682e525dcfafe246720bac6ab89dfa1d14c7&rid=giphy.gif&ct=g" width="300" height="300" align='left'/>
-  </p>
-  
+  </p> 
 ```js
 const developer = {
   firstName: 'Kevin',
@@ -11,7 +10,6 @@ const developer = {
     regulars: ['React', 'CSS', 'HTML'],
   },
   portfolio: 'https://xkokev.github.io/Kevin-Correa-portfolio/',
-
   contactMe: function () {
     if (needHelp || wannaChat) {
       tweetAt('@xkokev');
