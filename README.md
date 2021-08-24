@@ -7,7 +7,7 @@ const developer = {
   firstName: 'Kevin',
   programmingLanguages: {
     preference: 'JavaScript',
-    regulars: ['React', 'CSS', 'HTML', 'Next.js', 'Node'],
+    regulars: ['React', 'Next.js', 'Node', 'CSS', 'HTML'],
   },
   languages: ['English 🇺🇸', 'Spanish 🇪🇸', 'Italian 🇮🇹'],
   contactMe: function () {
